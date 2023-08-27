@@ -1,0 +1,14 @@
+/Users/sadebenjamin/Desktop/Code/Chatgpt Project/LinkedList/obj/Debug/net7.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadebenjamin/Desktop/Code/Chatgpt Project/LinkedList/obj/Debug/net7.0/LinkedList.AssemblyInfoInputs.cache
+/Users/sadebenjamin/Desktop/Code/Chatgpt Project/LinkedList/obj/Debug/net7.0/LinkedList.AssemblyInfo.cs
+/Users/sadebenjamin/Desktop/Code/Chatgpt Project/LinkedList/obj/Debug/net7.0/LinkedList.csproj.CoreCompileInputs.cache
+/Users/sadebenjamin/Desktop/Code/Chatgpt Project/LinkedList/bin/Debug/net7.0/LinkedList
+/Users/sadebenjamin/Desktop/Code/Chatgpt Project/LinkedList/bin/Debug/net7.0/LinkedList.deps.json
+/Users/sadebenjamin/Desktop/Code/Chatgpt Project/LinkedList/bin/Debug/net7.0/LinkedList.runtimeconfig.json
+/Users/sadebenjamin/Desktop/Code/Chatgpt Project/LinkedList/bin/Debug/net7.0/LinkedList.dll
+/Users/sadebenjamin/Desktop/Code/Chatgpt Project/LinkedList/bin/Debug/net7.0/LinkedList.pdb
+/Users/sadebenjamin/Desktop/Code/Chatgpt Project/LinkedList/obj/Debug/net7.0/LinkedList.dll
+/Users/sadebenjamin/Desktop/Code/Chatgpt Project/LinkedList/obj/Debug/net7.0/refint/LinkedList.dll
+/Users/sadebenjamin/Desktop/Code/Chatgpt Project/LinkedList/obj/Debug/net7.0/LinkedList.pdb
+/Users/sadebenjamin/Desktop/Code/Chatgpt Project/LinkedList/obj/Debug/net7.0/LinkedList.genruntimeconfig.cache
+/Users/sadebenjamin/Desktop/Code/Chatgpt Project/LinkedList/obj/Debug/net7.0/ref/LinkedList.dll
